@@ -1,27 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Hanna",
-      "email": "hanna1@gmail.com",
-      "telefono": "6623510199",
-      "empresa": "Fulanita",
-      "id": 2
-    },
-    {
-      "nombre": "Romina",
-      "email": "rominola@gmail.com",
-      "telefono": "6623379799",
-      "empresa": "Sabritas",
-      "id": 3
-    },
-    {
-      "nombre": "Adalberto",
-      "email": "chut13adal@hotmail.com",
-      "telefono": "6621429295",
-      "empresa": "SEP",
-      "id": 4
-    },
-    {
       "nombre": "Kristoffer",
       "email": "kristoffervelazquez01@gmail.com",
       "telefono": "6623536317",
